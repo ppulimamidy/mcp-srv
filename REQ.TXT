@@ -1,0 +1,15 @@
+langchain
+python-dotenv
+langgraph
+langchain-mcp-adapters==0.0.4
+google-generativeai>=0.3.0
+langchain-google-genai>=0.0.3
+mcp>=0.0.4
+fastapi
+uvicorn
+ipython
+mdutils
+langchain-groq
+langchain-community
+browserless
+

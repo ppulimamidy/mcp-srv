@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+python-dotenv
+langgraph
+langchain-mcp-adapters==0.0.4
+

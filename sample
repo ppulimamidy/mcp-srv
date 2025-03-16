@@ -1,0 +1,14 @@
+pip show langchain
+pip show langgraph
+pip show langchain_mcp_adapters
+pip show langchain_openai
+pip show langchain_groq
+pip show langchain_anthropic
+pip show langchain_groq
+pip show langchain_community
+pip show langchain_core
+pip show langchain_openai
+pip show langchain_groq
+pip show langchain_anthropic
+pip show langchain_groq
+pip show langchain_community
